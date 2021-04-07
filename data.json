@@ -1,0 +1,65 @@
+[
+  {
+    "price": "USD 350.000",
+    "attrs": "3896 m²\n4 amb.\n4 dorm.\n2 baños\n1 coch."
+  },
+  { "price": "USD 150.000", "attrs": "480 m²\n2 dorm.\n1 baño\n1 coch." },
+  { "price": "USD 95.000", "attrs": "90 m²\n3 amb.\n2 dorm.\n1 baño" },
+  { "price": "USD 178.000", "attrs": "1 un.\n5 amb.\n3 dorm.\n900 m²" },
+  {
+    "price": "USD 170.000",
+    "attrs": "220 m²\n5 amb.\n4 dorm.\n2 baños\n2 coch."
+  },
+  {
+    "price": "USD 135.000",
+    "attrs": "133 m²\n3 amb.\n2 dorm.\n2 baños\n2 coch."
+  },
+  {
+    "price": "USD 275.000",
+    "attrs": "250 m²\n5 amb.\n4 dorm.\n2 baños\n2 coch."
+  },
+  { "price": "USD 150.000", "attrs": "3 un.\n4 amb.\n3 dorm.\n150 a 160 m²" },
+  {
+    "price": "USD 189.000",
+    "attrs": "111 m²\n3 amb.\n2 dorm.\n1 baño\n1 coch."
+  },
+  {
+    "price": "USD 60.000",
+    "attrs": "300 m²\n5 amb.\n4 dorm.\n2 baños\n1 coch."
+  },
+  {
+    "price": "USD 560.000",
+    "attrs": "600 m²\n5 amb.\n4 dorm.\n3 baños\n1 coch."
+  },
+  { "price": "USD 77.000", "attrs": "5 un.\n3 a 4 amb.\n2 a 3 dorm.\n300 m²" },
+  {
+    "price": "USD 125.000",
+    "attrs": "264 m²\n4 amb.\n3 dorm.\n1 baño\n1 coch."
+  },
+  { "price": "USD 45.000", "attrs": "80 m²\n3 amb.\n2 dorm.\n1 baño\n1 coch." },
+  {
+    "price": "USD 68.000",
+    "attrs": "131 m²\n3 amb.\n2 dorm.\n2 baños\n1 coch."
+  },
+  {
+    "price": "USD 360.000",
+    "attrs": "21 un.\n3 a 9 amb.\n2 a 5 dorm.\n67 a 1082 m²"
+  },
+  {
+    "price": "USD 280.000",
+    "attrs": "400 m²\n4 amb.\n3 dorm.\n2 baños\n1 coch."
+  },
+  {
+    "price": "USD 295.000",
+    "attrs": "328 m²\n5 amb.\n3 dorm.\n2 baños\n4 coch."
+  },
+  {
+    "price": "USD 150.000",
+    "attrs": "106 m²\n6 amb.\n2 dorm.\n1 baño\n1 coch."
+  },
+  {
+    "price": "USD 77.000",
+    "attrs": "1 un.\n3 a 4 amb.\n2 a 3 dorm.\n78 a 300 m²"
+  },
+  { "price": "USD 79.000", "attrs": "90 m²\n3 amb.\n2 dorm.\n2 baños\n2 coch." }
+]
